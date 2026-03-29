@@ -1,1 +1,1 @@
-# pill-detection-yolov
+# pill-detection-yolo
